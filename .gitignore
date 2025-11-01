@@ -1,0 +1,22 @@
+# Python & Flask ignores
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Environment files
+.env
+.env.*
+
+# VS Code & other IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
